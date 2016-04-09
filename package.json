@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThirdFloorCourse/ReactCourse.git"
+    "url": "git+https://github.com/llh1/ReactPlaygroundTodoList.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ThirdFloorCourse/ReactCourse/issues"
+    "url": "https://github.com/llh1/ReactPlaygroundTodoList/issues"
   },
-  "homepage": "https://github.com/ThirdFloorCourse/ReactCourse#readme",
+  "homepage": "https://github.com/llh1/ReactPlaygroundTodoList/#readme",
   "devDependencies": {
     "babel-cli": "^6.6.5",
     "babel-loader": "^6.2.4",
