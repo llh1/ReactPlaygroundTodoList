@@ -4,7 +4,7 @@ React Playground: TodoApp
 This is the code base of an empty TodoList application. You can use it to learn how to use React. This playground is inspired by TodoMVC. The specifications of the application are already written. Then, you can focus on the implementation. If you make all the tests passed, you should be ready to use React in a more complex situation. 
 
 To get started quickly:
-> * git clone https://github.com/llh1/ReactPlaygroundTodoList
+> * git clone https://github.com/llh1/ReactPlaygroundTodoList.git
 > * cd ReactPlaygroundTodoList
 > * npm install
 
